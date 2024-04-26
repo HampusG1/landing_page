@@ -1,2 +1,2 @@
 # landing_page
-Makeing the landing page on the odin project
+Making the landing page on the odin project
